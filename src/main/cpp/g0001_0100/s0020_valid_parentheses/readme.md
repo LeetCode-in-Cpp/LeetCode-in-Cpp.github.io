@@ -54,7 +54,6 @@ An input string is valid if:
 ```cpp
 #include <stack>
 #include <string>
-
 using namespace std;
 
 class Solution {

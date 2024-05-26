@@ -42,7 +42,6 @@ You must write an algorithm with `O(log n)` runtime complexity.
 
 ```cpp
 #include <vector>
-
 using namespace std;
 
 class Solution {

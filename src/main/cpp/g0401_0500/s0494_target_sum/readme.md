@@ -45,7 +45,7 @@ Return the number of different **expressions** that you can build, which evaluat
 
 ```cpp
 #include <vector>
-#include <cmath> // for abs
+#include <cmath>
 using namespace std;
 
 class Solution {

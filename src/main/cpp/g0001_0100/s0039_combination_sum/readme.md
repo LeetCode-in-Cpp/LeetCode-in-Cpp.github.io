@@ -60,7 +60,6 @@ It is **guaranteed** that the number of unique combinations that sum up to `targ
 
 ```cpp
 #include <vector>
-
 using namespace std;
 
 class Solution {

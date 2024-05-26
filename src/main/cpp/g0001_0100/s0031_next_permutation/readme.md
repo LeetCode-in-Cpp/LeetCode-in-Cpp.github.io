@@ -47,7 +47,6 @@ The replacement must be **[in place](http://en.wikipedia.org/wiki/In-place_algor
 ```cpp
 #include <vector>
 #include <algorithm>
-
 using namespace std;
 
 class Solution {

@@ -30,7 +30,6 @@ Given `n` pairs of parentheses, write a function to _generate all combinations o
 ```cpp
 #include <vector>
 #include <string>
-
 using namespace std;
 
 class Solution {

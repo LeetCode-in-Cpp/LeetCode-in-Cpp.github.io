@@ -35,7 +35,6 @@ Given `n` non-negative integers representing an elevation map where the width of
 
 ```cpp
 #include <vector>
-
 using namespace std;
 
 class Solution {

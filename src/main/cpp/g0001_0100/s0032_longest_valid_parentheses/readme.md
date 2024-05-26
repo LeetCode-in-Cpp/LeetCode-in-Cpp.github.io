@@ -41,7 +41,6 @@ Given a string containing just the characters `'('` and `')'`, find the length o
 ```cpp
 #include <string>
 #include <algorithm>
-
 using namespace std;
 
 class Solution {
