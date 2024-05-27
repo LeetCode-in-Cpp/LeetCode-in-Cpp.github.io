@@ -48,7 +48,6 @@ Given `n` non-negative integers <code>a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n
 ## Solution
 
 ```cpp
-#include <iostream>
 #include <vector>
 using namespace std;
 

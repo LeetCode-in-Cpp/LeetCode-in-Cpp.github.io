@@ -37,7 +37,6 @@ Notice that the solution set must not contain duplicate triplets.
 ## Solution
 
 ```cpp
-#include <iostream>
 #include <vector>
 using namespace std;
 
